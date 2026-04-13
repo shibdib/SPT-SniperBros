@@ -6,7 +6,7 @@
     <AssemblyName>Shibdib.SniperBros</AssemblyName>
     <Nullable>disable</Nullable>
     <Authors>Shibdib</Authors>
-    <AssemblyVersion>1.0.0</AssemblyVersion>
+    <AssemblyVersion>1.0.2</AssemblyVersion>
     <FileVersion>$(AssemblyVersion)</FileVersion>
     <Configurations>Debug;Release;Package</Configurations>
     <Version>$(AssemblyVersion)</Version>
